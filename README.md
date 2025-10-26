@@ -4,7 +4,6 @@
 <h1 align="center">👋 Hi, I'm Mehedi Hasan</h1>
 <h3 align="center">💻 Full Stack Developer (MERN) | Building the Web, One App at a Time</h3>
 
----
 
 ## 🚀 About Me
 - 🌱 Currently learning **Advanced React**, **JWT Authentication**, and **Deployment with Vercel**
@@ -13,7 +12,6 @@
 - ⚙️ I love clean code, teamwork, and creative UI design
 - 🌐 Portfolio: [mehedi-self-72.vercel.app](https://mehedi-self-72.vercel.app/)
 
----
 
 ## 🧠 Tech Stack
 
